@@ -8,9 +8,11 @@ El objetivo de este repositorio es centralizar apuntes, teoría, ejercicios resu
 
 ```text
 .
-├── 1C/
-│   └── (Vacío por el momento)
-└── 2C/
+├── 1P/
+│   ├──Fluidos
+│   └── Dinamica
+│
+└── 2P/
     └── Apuntes/
         ├── CCR.md
         ├── DCR.md
@@ -73,7 +75,26 @@ Incluye ejercicios y apuntes de la unidad.
 
 ### 1C
 
-Actualmente la carpeta del primer cuatrimestre se encuentra vacía y será completada en el futuro si resulta necesario.
+#### Dinamica.md
+
+**Dinamica del punto material**
+
+Incluye:
+
+* Teoría de Dinámica del Cuerpo del punto material .
+* Ejercicios propuestos en clase por el profesor Pozzetti.
+* Resoluciones y notas de estudio.
+
+#### Fluidos.md
+
+**Hidroestática e Hidrodinámica**
+
+Incluye:
+
+* Teoría de Hidroestática e Hidrodinámica .
+* Ejercicios propuestos en clase por el profesor Pozzetti.
+* Resoluciones y notas de estudio.
+
 
 ### 2C
 
