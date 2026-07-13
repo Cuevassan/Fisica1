@@ -1319,7 +1319,7 @@ Como el bloque arranca desde el reposo absoluto ($v_0 = 0$) en el origen tempora
 
 $$\Delta x(t) = v_0 \cdot t + \frac{1}{2} \cdot a \cdot t^2 \implies \mathbf{\Delta x(t) = 1,1608 \cdot t^2 \quad [\text{m}]} \quad \text{}$$
 
-### b) Fuerza que el cuerpo A ejerce sobre el cuerpo B ($E$ o $N_{BA}$)
+### b) Fuerza que el cuerpo A ejercgit pull origin main --rebasee sobre el cuerpo B ($E$ o $N_{BA}$)
 
 Para calcular la fuerza de contacto interna, aislamos el **Cuerpo B** de forma individual. Su DCL en el eje X muestra que el cuerpo A lo empuja con una fuerza de contacto hacia arriba (llamémosla $E$), mientras que su propio peso y su rozamiento lo frenan hacia abajo:
 
